@@ -39,3 +39,5 @@ struct StarLink: View {
         }
     }
 }
+
+//I just added some stuff
